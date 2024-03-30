@@ -1,0 +1,7 @@
+telegram:
+  bot_token: "6845816934:AAH8pdnQAKJulw30fmfZEXVnyBXm-QMiQro"
+  chat_id: "-1002130850086"
+coingecko:
+  api_key: "CG-oGjLHFMikBUD42EP4PAeGmis"
+etherscan:
+  api_key: "XR3DJNCHBTWNCM7C44NB1R8EGHA3SX6PVG"
